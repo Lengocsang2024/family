@@ -1,0 +1,27 @@
+.webtitle {
+    color: #ca185c;
+    background-color: #e7e5e5c4;
+    font-family: sans-serif;
+    font-style: italic;
+    margin-top: 0;
+    margin-bottom: 500;
+    padding: 0;
+    border: 0;
+}
+
+
+.table1 {
+    width: 100%;
+    height: 20%;
+    text-align: center;
+}
+
+.table2 {
+    width: 100%;
+    height: 20%;
+    text-align: center;
+}
+
+body {
+    background-color: #6cc2bd;
+}
